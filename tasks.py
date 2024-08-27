@@ -327,3 +327,5 @@
 # print("Result --->  ", reverse("Radar"))
 
 
+def say_hello():
+    return "HI"
